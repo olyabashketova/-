@@ -76,7 +76,7 @@ li{
   list-style-type: disc;
   margin: 16px 0px 0px 28px;
 }
-li+li{
+li+li {
   margin-top: 10px;
 }
 img {
@@ -97,7 +97,10 @@ img+p, ul+img {
 h3+ul{
 margin-top: 18px;
 }
-
-li+img {
-  margin-top: 81px;
+img+img{
+  margin-top: 10px;
 }
+
+/*li+img {*/
+  /*margin-top: 81px;*/
+/*}*/
